@@ -19,6 +19,7 @@ This demonstrates the cconnection of MySQL database and Node.js to create a simp
    ```
 4. Create a ``` server.js ``` and ```.env``` files
 5. Basic ```server.js``` setup
+
    <br>
    
    ```js
